@@ -1,0 +1,7 @@
+Project Title: Real-Time Face Detection using OpenCV
+Description: Developed a real-time face detection system using OpenCV and Python to capture, process, and save video frames from a webcam. The project utilized Haar cascades for accurate face detection, and optimized performance by tuning detection parameters.
+
+Implemented real-time video capture and frame processing using OpenCV’s cv2.VideoCapture and CascadeClassifier.
+Developed a face detection algorithm utilizing Haar cascades to accurately identify faces in web cam.
+Configured video output to save processed video with face detection overlays and frame counts.
+Adjusted detection parameters such as scaleFactor and minNeighbors to enhance detection accuracy and reduce false positives.
